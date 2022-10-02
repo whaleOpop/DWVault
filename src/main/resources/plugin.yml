@@ -1,0 +1,4 @@
+name: DWAPI
+version: ${project.version}
+main: doublewhaleapi.dwapi.DWAPI
+api-version: 1.13

@@ -1,0 +1,13 @@
+tasks: # Tasks settings
+  CoinMaterial: # CoinMaterial addon related tasks
+    autosaveTask: # Simple autosave task
+      # Launch autosave task?
+      enabled: true
+      # Timeout in ticks between tasks (1 second = 20 ticks) Default: 36000 = 30 minutes
+      timeout: 36000
+  Guilded: # Guilded addon related tasks
+    autosaveTask: # Simple autosave task
+      # Launch autosave task?
+      enabled: true
+      # Timeout in ticks between tasks (1 second = 20 ticks) Default: 36000 = 30 minutes
+      timeout: 36000
